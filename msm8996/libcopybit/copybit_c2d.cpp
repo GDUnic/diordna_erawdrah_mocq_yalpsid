@@ -42,7 +42,7 @@
 
 #include "c2d2.h"
 #include "software_converter.h"
-#include <gralloc_priv.h>
+#include <alloc_controller.h>
 
 #include <dlfcn.h>
 
